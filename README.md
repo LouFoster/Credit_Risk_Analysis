@@ -47,3 +47,16 @@ Print out the imbalanced classification report.
 Save your credit_risk_resampling.ipynb file to your Credit_Risk_Analysis folder.
 
 
+##Deliverable 2: Use the SMOTEENN algorithm to Predict Credit Risk
+
+Follow the instructions below and use the information in the credit_risk_resampling_starter_code.ipynb file to complete Deliverable 2.
+
+1.)Continue using your credit_risk_resampling.ipynb file where you have already created your training and target variables.
+
+2.) Using the information we have provided in the starter code, resample the training data using the SMOTEENN algorithm.
+
+3.) After the data is resampled, use the LogisticRegression classifier to make predictions and evaluate the model’s performance.
+Calculate the accuracy score of the model, generate a confusion matrix, and then print out the imbalanced classification report.
+
+![image](https://user-images.githubusercontent.com/117233641/232633203-73b73b82-c0bb-41f4-912d-0aec90f9a696.png)
+
