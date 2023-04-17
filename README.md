@@ -59,4 +59,5 @@ Follow the instructions below and use the information in the credit_risk_resampl
 Calculate the accuracy score of the model, generate a confusion matrix, and then print out the imbalanced classification report.
 
 ![image](https://user-images.githubusercontent.com/117233641/232633203-73b73b82-c0bb-41f4-912d-0aec90f9a696.png)
-
+  
+  
